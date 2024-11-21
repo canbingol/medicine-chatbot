@@ -30,7 +30,7 @@ Follow these steps to run the project on your local machine.
 Create and activate a virtual environment:
 
 ```bash
-- conda create -n medibot python=3.9 -y
+- conda create -n medibot python=3.10 -y
 - conda activate medibot
 ```
 ### 4. Install Dependencies
@@ -40,8 +40,8 @@ Create and activate a virtual environment:
 ### 5. Add API Keys
 Add the necessary API keys to the .env file:
 
-  "OPENAI_API_KEY": "your_openai_api_key",
-  "PINECONE_API_KEY": "your_pinecone_api_key"
+ - "OPENAI_API_KEY": "your_openai_api_key",
+ - "PINECONE_API_KEY": "your_pinecone_api_key"
 
 
 ### 6. Run the Project
