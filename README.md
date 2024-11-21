@@ -50,3 +50,5 @@ Run the application using the following command in the main directory:
 ```bash
 python app.py
 ```
+
+Type [http://localhost:8080](http://localhost:8080) into your browser to access the interface.
