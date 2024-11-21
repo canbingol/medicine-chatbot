@@ -7,7 +7,7 @@ Medicine Chatbot is a chatbot application designed to provide users with medical
 - **Text-Based Q&A System**: Enables users to ask medical-related questions and get relevant answers.
 - **PDF Document Support**: Upload medical resources in PDF format to enhance the chatbot's response capabilities.
 - **Memory and Query Management**: Utilizes tools like Pinecone for data storage and fast query execution.
-- **AI Models**: Powered by HuggingFace models and LangChain for enhanced NLP performance.
+- **AI Models**: Powered by Openai and HuggingFace models and LangChain for enhanced NLP performance.
 
 ---
 
