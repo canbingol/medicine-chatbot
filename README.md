@@ -52,3 +52,7 @@ python app.py
 ```
 
 Type [http://localhost:8080](http://localhost:8080) into your browser to access the interface.
+
+Contact
+For any questions or suggestions, feel free to reach out:
+https://www.linkedin.com/in/canbingöl/
